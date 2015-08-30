@@ -38,8 +38,7 @@ public class SelectionSortSampler
 			
 			System.out.println("Run: " + i + " | Array Size: " + currentSize + " | Time: " + timer.getElapsedTime() + "ms");
 			 
-		}
-				
+		}		
 		in.close(); 
 	}
 }
